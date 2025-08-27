@@ -1,11 +1,8 @@
 html,body{
-    heigth: 100%;
-   margin:0
-
+height: 100%;
+margin:0;
 }
-hoja{
-width: 90%;
-height:100%
 
-
-}
+#hoja{
+    width: 100%;
+height: 90%;}
